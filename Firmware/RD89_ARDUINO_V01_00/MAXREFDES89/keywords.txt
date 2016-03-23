@@ -1,0 +1,4 @@
+Maxrefdes89	KEYWORD1
+set_operating_mode	KEYWORD2
+set_current_regulation_mode	KEYWORD2
+set_pwm_duty_cycle	KEYWORD2

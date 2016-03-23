@@ -1,0 +1,4 @@
+Max5387	KEYWORD1
+write_ch_A	KEYWORD2
+write_ch_B	KEYWORD2
+write_ch_AB	KEYWORD2

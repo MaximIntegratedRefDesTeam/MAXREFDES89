@@ -6,3 +6,7 @@ The MAXREFDES89# provides an ideal interface for anyone developing with brushed 
 An mbed library for the shield is available at the following link, [MAX14871_Shield Library](https://developer.mbed.org/teams/Maxim-Integrated/code/MAX14871_Shield/). The library abstracts the details of interfacing with the supporting hardware of the reference design and allows the user to focus on their application.
 
 The MAXREFDES89# is a tool for rapid development that offers optimal flexibility to the user during development of their application. In a final design, the MAX14871 may be the only required silicon for driving a brushed DC motor and regulating the motor’s current.
+
+All design files for MAXREFDES89# can be found [here](https://www.maximintegrated.com/en/design/reference-design-center/system-board/6219.html/tb_tab2).
+
+For more reference designs from Maxim Integrated please visit our site.[Maxim Integrated Reference Designs](https://www.maximintegrated.com/en/design/reference-design-center.html).

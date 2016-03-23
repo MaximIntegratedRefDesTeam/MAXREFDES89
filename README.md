@@ -1,4 +1,4 @@
-## MAXREFDES89
+## MAXREFDES89 Arduino Library
 Shield for MAX14871 Brushed DC Motor Driver
 
 The MAXREFDES89# provides an ideal interface for anyone developing with brushed DC motors. The design is an mbed®-compatible, Arduino® form factor shield for the rapid development of brushed DC motor applications. The shield contains four MAX14871 full-bridge DC motor drivers for driving up to 4 motors. A MAX17501 DC-DC converter allows the system to operate from a single 7 to 36VDC power supply. Four MAX4704 4:1 multiplexers permit setting the current regulation mode of the MAX14871, while two MAX5387 digital potentiometers provide the ability to set the motor current limit. A MAX7300 GPIO expander supports interfacing each motor driver circuit to the mbed-enabled microcontroller platform.
